@@ -98,3 +98,7 @@ This project is for **educational and portfolio purposes**. All external resourc
 ---
 
 ⭐ If you like this project, star it and use it as a base to build something bigger.
+
+
+<img width="1913" height="917" alt="image" src="https://github.com/user-attachments/assets/f3cb395b-83b6-43c6-813d-05ae21837665" />
+
